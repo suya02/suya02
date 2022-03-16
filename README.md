@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RYUSUHYEON&fontAlignY=40&fontSize=100&desc=ꉂꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling)
+-->
 
 ### 류수현      
 ##### Front-End Developer   
