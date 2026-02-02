@@ -4,7 +4,6 @@
 -->
 
 ### 류수현      
-##### Front-End Developer   
 2000.02.06   
    
 🤍 email zcxv3826@naver.com    
